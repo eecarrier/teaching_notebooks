@@ -1,4 +1,4 @@
 numpy==1.13.3
 graphviz==0.10.1
 pygraphviz==1.5
-mobilechelonian==0.4
+git+git://github.com/takluyver/mobilechelonian.git@f90afaa
